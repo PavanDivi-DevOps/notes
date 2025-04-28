@@ -1,0 +1,20 @@
+SDLC? (Software Development Life Cycle)
+
+	* Waterfall Model
+	* Agile
+	* Spiral
+	* DevOps -> DevSecOps -> AiOps
+	
+Software Development Life Cycle (SDLC) models like Waterfall, Agile, Spiral, and V-Model define step-by-step processes to build software — from planning to testing and deployment. They help teams manage and organize work efficiently.
+
+DevOps came into the picture because traditional SDLC models often caused delays: developers and operations teams worked separately, leading to slow releases, miscommunication, and more bugs. DevOps bridges this gap by combining development and operations, using automation and collaboration to deliver software faster, more reliably, and continuously.
+	
+What is DevOps?
+	- DevOps is a process where the Development and Operations teams work together to build, test, and deploy code from day one, for faster releases and fewer defects. 
+	  We can achive this using continous Integration, continous deployment, continous delivery and continuous testing.
+	- DevOps is a process of creating co-operation between Dev Team and Ops Team for Faster Releases and Less Defects.
+    - Whenever Dev Team writes a code what devops do is from day one code has to be build and test.
+
+Check the blog: https://medium.com/@pavandivi.kumar47/from-sdlc-to-devops-how-software-development-became-faster-safer-and-smarter-f4cb71c9f257
+
+
